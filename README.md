@@ -27,7 +27,7 @@ Step2: Then connecting mysql server to tableau desktop and loading the sales dat
 - Power BI File
 - Power BI Dashboard
 
-Data cleaning in tableau : 1. In transactions table , column sales amont contain some negative or zero values , acccording to me it will be a system error when filling the data so i have filter out those values and applied filter that sales amount should be at least 1 rupees .
+Data cleaning in Power BI : 1. In transactions table , column sales amont contain some negative or zero values , acccording to me it will be a system error when filling the data so i have filter out those values and applied filter that sales amount should be at least 1 rupees .
 data > edit source filter > add sales amount > at least 1
 
 2. AtliQ hardware has only business in India but in market column there is two market name New york & Paris so it will be a error so i have removed these two market name by their market code Mark097, Mark999 .
