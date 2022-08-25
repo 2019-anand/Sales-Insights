@@ -38,3 +38,16 @@ IF [Currency] == 'USD' THEN [Sales Amount]* 74 ELSE [Sales Amount] END
 
 Step3: Creation of dashboard
 -See the dashboard on Power BI Public
+
+## DASHBOARD VIEWS
+ # KEY INSIGHTS
+ ![image](https://user-images.githubusercontent.com/98209132/186683910-2635df37-a30c-416f-b959-69c71f1ce961.png)
+  
+# PERFORMANCE INSIGHTS
+ ![image](https://user-images.githubusercontent.com/98209132/186685594-a7754b76-cc9b-4197-b5de-c5e432cb8c15.png)
+
+# PROFIT ANALYSIS
+ ![image](https://user-images.githubusercontent.com/98209132/186687013-0bd8319e-4c82-4d25-be90-4ee4804eacf8.png)
+
+
+
